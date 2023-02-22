@@ -1,9 +1,9 @@
 # SystemyWbudowane
-# Mail:
-# p.t.filipkowski@gmail.com
+Mail:
+p.t.filipkowski@gmail.com
 
-# Maszynki:
-# MPLAB X IDE
+Maszynki:
+MPLAB X IDE
 
 # Symulator do poćwiczenia w domu:
 # PicsimLab
