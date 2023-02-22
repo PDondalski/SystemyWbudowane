@@ -19,4 +19,5 @@ Zmiana z systemu dziesiętnego na binarny:
 http://www.c4learn.com/c-programs/decimal-to-binary-using-bitwise-and.html
  
 https://practice.geeksforgeeks.org/problems/binary-representation5003/1
+
 ===========================
