@@ -5,6 +5,6 @@ p.t.filipkowski@gmail.com
 Maszynki:
 MPLAB X IDE
 
-# Symulator do poćwiczenia w domu:
-# PicsimLab
+Symulator do poćwiczenia w domu:
+PicsimLab
 
